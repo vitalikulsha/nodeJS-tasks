@@ -1,0 +1,9 @@
+{
+  "editor.tabSize": 2,
+  "emmet.triggerExpansionOnTab": true,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": false
+  },
+}
